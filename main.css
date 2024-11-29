@@ -1,0 +1,19 @@
+html {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+a{
+    columns: aliceblue;
+
+}
+a:visited{
+    color: lightgray;
+}
+a:hover, a:active{
+    color: #eee;
+}
